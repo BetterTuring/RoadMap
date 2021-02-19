@@ -1,3 +1,4 @@
+图灵Python书单
 
 编程入门
 
@@ -79,9 +80,9 @@ TensorFlow
   简明的 TensorFlow 2   
   深入理解TensorFlow：架构设计与实现原理  
 Keras  
-  Python深度学习  
-PyTorch
-  PyTorch深度学习入门  
+  Python深度学习    
+PyTorch  
+  PyTorch深度学习入门   
   深度学习原理与PyTorch实战  
 
 特征工程  
